@@ -1,6 +1,8 @@
 # AR Detector - Intelligent Inventory Scanner
 
 An Android application designed for real-time product detection and inventory counting.
+[Download APK and Try Now](https://github.com/prakharmi/AR_Detector/raw/master/AR%20Detector.apk)
+
 
 ## Key Features
 
