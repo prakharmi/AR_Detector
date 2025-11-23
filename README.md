@@ -3,6 +3,10 @@
 An Android application designed for real-time product detection and inventory counting.
 [Download APK and Try Now](https://github.com/prakharmi/AR_Detector/raw/master/AR%20Detector.apk)
 
+## 🎥 Demo Video
+
+> _[Click on the thumbnail below to watch the demonstration. Alternatively, click on this link to view- https://youtu.be/26q2CB2QtaI ]_  
+> [![Watch the video](https://img.youtube.com/vi/26q2CB2QtaI/maxresdefault.jpg)](https://youtu.be/26q2CB2QtaI)
 
 ## Key Features
 
