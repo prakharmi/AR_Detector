@@ -19,7 +19,7 @@ class ObjectDetectorHelper(private val context: Context) {
 
     // Configuration of the AI model that we are using
     private val modelName = "model.tflite"
-    private val confidenceThreshold = 0.50f // 50% confidence then only we will track the object
+    private val confidenceThreshold = 0.25f // 25% confidence then only we will track the object
     private val trackingDistanceThreshold = 250f // Pixels to snap to existing object
 
     // Blocklist of the objects that we don't want to track
